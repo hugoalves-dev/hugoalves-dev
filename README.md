@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vitorhugo-dotnet&style=for-the-badge&color=9984D4&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=hugoalves-dev&style=for-the-badge&color=9984D4&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
 <p align="center">
@@ -124,18 +124,18 @@ motto: Build for maintainability, optimize for sanity
   <tr>
     <td valign="top">
       <ul>
-        <li><a href="https://github.com/vitorhugo-dotnet/SpringBoot-JobApplyTracker"><strong>JobApplyTracker</strong></a> — OAuth2/OIDC, Redis, observabilidade e automação do fluxo de candidaturas.</li>
-        <li><a href="https://github.com/vitorhugo-dotnet/finance-tracker-services"><strong>Finance Tracker Services</strong></a> — serviços distribuídos para estudo de arquitetura financeira.</li>
-        <li><a href="https://github.com/vitorhugo-dotnet/distributed-gateway-order-system"><strong>Distributed Gateway Order System</strong></a> — gateway, microsserviços e comunicação distribuída.</li>
-        <li><a href="https://github.com/vitorhugo-dotnet/rabbitRescue"><strong>Rabbit Rescue</strong></a> — retry, dead-letter queues e processamento confiável com RabbitMQ.</li>
+        <li><a href="https://github.com/hugoalves-dev/SpringBoot-JobApplyTracker"><strong>JobApplyTracker</strong></a> — OAuth2/OIDC, Redis, observabilidade e automação do fluxo de candidaturas.</li>
+        <li><a href="https://github.com/hugoalves-dev/finance-tracker-services"><strong>Finance Tracker Services</strong></a> — serviços distribuídos para estudo de arquitetura financeira.</li>
+        <li><a href="https://github.com/hugoalves-dev/distributed-gateway-order-system"><strong>Distributed Gateway Order System</strong></a> — gateway, microsserviços e comunicação distribuída.</li>
+        <li><a href="https://github.com/hugoalves-dev/rabbitRescue"><strong>Rabbit Rescue</strong></a> — retry, dead-letter queues e processamento confiável com RabbitMQ.</li>
       </ul>
     </td>
     <td valign="top">
       <ul>
-        <li><a href="https://github.com/vitorhugo-dotnet/dotnet_SonicRelay"><strong>SonicRelay API</strong></a> — autenticação, sessões e sinalização para áudio em tempo real.</li>
-        <li><a href="https://github.com/vitorhugo-dotnet/windows_SonicRelay"><strong>SonicRelay Windows</strong></a> — captura de áudio do sistema e transmissão com baixa latência.</li>
-        <li><a href="https://github.com/vitorhugo-dotnet/dotnet.MeatData"><strong>MeatData</strong></a> — projeto de estudo e processamento de dados com .NET.</li>
-        <li><a href="https://github.com/vitorhugo-dotnet/VacineLife"><strong>VacineLife</strong></a> — aplicação ASP.NET MVC com Razor e SQL Server.</li>
+        <li><a href="https://github.com/hugoalves-dev/dotnet_RelayControl"><strong>SonicRelay API</strong></a> — autenticação, sessões e sinalização para áudio em tempo real.</li>
+        <li><a href="https://github.com/hugoalves-dev/desktop_dotnet_SonicRelay"><strong>SonicRelay Windows</strong></a> — captura de áudio do sistema e transmissão com baixa latência.</li>
+        <li><a href="https://github.com/hugoalves-dev/dotnet.MeatData"><strong>MeatData</strong></a> — projeto de estudo e processamento de dados com .NET.</li>
+        <li><a href="https://github.com/hugoalves-dev/VacineLife"><strong>VacineLife</strong></a> — aplicação ASP.NET MVC com Razor e SQL Server.</li>
       </ul>
     </td>
   </tr>
@@ -168,10 +168,10 @@ motto: Build for maintainability, optimize for sanity
   <table>
     <tr>
       <td align="center">
-        <img src="https://github-readme-streak-stat-taupe.vercel.app?user=vitorhugo-dotnet&theme=catppuccin_mocha&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub streak" />
+        <img src="https://github-readme-streak-stat-taupe.vercel.app?user=hugoalves-dev&theme=catppuccin_mocha&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub streak" />
       </td>
       <td align="center">
-        <img src="https://github-readme-stat-lemon.vercel.app/api?username=vitorhugo-dotnet&theme=catppuccin_mocha&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub stats" />
+        <img src="https://github-readme-stat-lemon.vercel.app/api?username=hugoalves-dev&theme=catppuccin_mocha&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub stats" />
       </td>
     </tr>
   </table>
@@ -181,9 +181,9 @@ motto: Build for maintainability, optimize for sanity
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vitorhugo-dotnet/vitorhugo-dotnet/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vitorhugo-dotnet/vitorhugo-dotnet/output/github-snake.svg">
-    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/vitorhugo-dotnet/vitorhugo-dotnet/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hugoalves-dev/hugoalves-dev/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hugoalves-dev/hugoalves-dev/output/github-snake.svg">
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/hugoalves-dev/hugoalves-dev/output/github-snake.svg" />
   </picture>
 </p>
 
@@ -231,7 +231,7 @@ FACTS=(
   <a href="https://www.linkedin.com/in/hugojava">
     <img src="https://img.shields.io/badge/LinkedIn-9984D4?style=for-the-badge&logo=linkedin&logoColor=%23F5EFFF" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/vitorhugo-dotnet">
+  <a href="https://github.com/hugoalves-dev">
     <img src="https://img.shields.io/badge/GitHub-592E83?style=for-the-badge&logo=github&logoColor=%23F5EFFF" alt="GitHub" />
   </a>
 </p>
