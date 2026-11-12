@@ -101,17 +101,22 @@ motto: Build for maintainability, optimize for sanity
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/Node.js-339933-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js-339933" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/WebRTC-333333-333333?style=for-the-badge&logo=webrtc&logoColor=white" alt="WebRTC-333333" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Cloudflare_Workers-F38020-F38020?style=for-the-badge&logo=cloudflareworkers&logoColor=white" alt="Cloudflare Workers-F38020" />
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
+  <img src="https://img.shields.io/badge/OpenTelemetry-000000-000000?style=for-the-badge&logo=opentelemetry&logoColor=white" alt="OpenTelemetry-000000" />
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Rust-000000-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust-000000" />
 </p>
 
 <h2 align="center">🚀 src/HighlightedProjects 🚀</h2>
@@ -124,18 +129,40 @@ motto: Build for maintainability, optimize for sanity
   <tr>
     <td valign="top">
       <ul>
-        <li><a href="https://github.com/hugoalves-dev/SpringBoot-JobApplyTracker"><strong>JobApplyTracker</strong></a> — OAuth2/OIDC, Redis, observabilidade e automação do fluxo de candidaturas.</li>
-        <li><a href="https://github.com/hugoalves-dev/finance-tracker-services"><strong>Finance Tracker Services</strong></a> — serviços distribuídos para estudo de arquitetura financeira.</li>
-        <li><a href="https://github.com/hugoalves-dev/distributed-gateway-order-system"><strong>Distributed Gateway Order System</strong></a> — gateway, microsserviços e comunicação distribuída.</li>
-        <li><a href="https://github.com/hugoalves-dev/rabbitRescue"><strong>Rabbit Rescue</strong></a> — retry, dead-letter queues e processamento confiável com RabbitMQ.</li>
+        <li><a href="https://github.com/hugoalves-dev/SpringBoot-JobApplyTracker"><strong>Applywell (JobApplyTracker)</strong></a> — Spring Boot, servidor MCP com Spring AI, OAuth2/OIDC e gestão de candidaturas.</li>
+        <li><a href="https://github.com/hugoalves-dev/finance-tracker-services"><strong>Finance Tracker</strong></a> — microsserviços, Keycloak, RabbitMQ, Redis e observabilidade distribuída.</li>
+        <li><a href="https://github.com/hugoalves-dev/IA-hugo-do-zap"><strong>IA Hugo do Zap</strong></a> — monitoramento de conversas arquivadas, Evolution API, RabbitMQ, Telegram e classificação com IA.</li>
+        <li><a href="https://github.com/hugoalves-dev/springboot-microservice-resilience"><strong>Microservice Resilience</strong></a> — circuit breaker, timeout, retry, bulkhead e fallback com Resilience4j.</li>
       </ul>
     </td>
     <td valign="top">
       <ul>
-        <li><a href="https://github.com/hugoalves-dev/dotnet_RelayControl"><strong>SonicRelay API</strong></a> — autenticação, sessões e sinalização para áudio em tempo real.</li>
-        <li><a href="https://github.com/hugoalves-dev/desktop_dotnet_SonicRelay"><strong>SonicRelay Windows</strong></a> — captura de áudio do sistema e transmissão com baixa latência.</li>
-        <li><a href="https://github.com/hugoalves-dev/dotnet.MeatData"><strong>MeatData</strong></a> — projeto de estudo e processamento de dados com .NET.</li>
-        <li><a href="https://github.com/hugoalves-dev/VacineLife"><strong>VacineLife</strong></a> — aplicação ASP.NET MVC com Razor e SQL Server.</li>
+        <li><a href="https://github.com/hugoalves-dev/dotnet_RelayControl"><strong>RelayControl</strong></a> — API .NET 10 para identidade de dispositivos, pareamento, sessões e sinalização WebRTC.</li>
+        <li><a href="https://github.com/hugoalves-dev/dotnet_FrameRelay"><strong>FrameRelay</strong></a> — compartilhamento de tela em Windows com Avalonia, H.264 e WebRTC.</li>
+        <li><a href="https://github.com/hugoalves-dev/MediaRelay"><strong>MediaRelay</strong></a> — upload de mídia com ASP.NET Core e armazenamento S3 compatível com MinIO.</li>
+        <li><a href="https://github.com/hugoalves-dev/dotnet-distributed-job-lock"><strong>Distributed Job Lock</strong></a> — agendamento em cluster com Quartz.NET e PostgreSQL.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<table align="center">
+  <tr>
+    <th width="50%">🦀 Rust & Performance</th>
+    <th width="50%">🔗 Integrations & Products</th>
+  </tr>
+  <tr>
+    <td valign="top">
+      <ul>
+        <li><a href="https://github.com/hugoalves-dev/WaveKeys"><strong>WaveKeys</strong></a> — utilitário Windows em Rust com tray, atalhos globais e integração com Elgato Wave Link.</li>
+        <li><a href="https://github.com/hugoalves-dev/rust-uuid-v7-benchmark"><strong>Rust UUIDv7 Benchmark</strong></a> — experimentos de paralelismo CPU/CUDA e detecção de colisões com cargas sintéticas.</li>
+      </ul>
+    </td>
+    <td valign="top">
+      <ul>
+        <li><a href="https://github.com/hugoalves-dev/simkl-mcp-cloudflare-workers"><strong>Simkl MCP</strong></a> — servidor MCP remoto com TypeScript, Cloudflare Workers, OAuth2 e Durable Objects.</li>
+        <li><a href="https://github.com/hugoalves-dev/n8n-nodes-bailey"><strong>n8n-nodes-bailey</strong></a> — nó comunitário para n8n com autenticação e integração WhatsApp via Baileys.</li>
+        <li><a href="https://github.com/hugoalves-dev/the_universe_decides"><strong>The Universe Decides</strong></a> — aplicativo Flutter para Android e web, com integração ao RANDOM.ORG.</li>
       </ul>
     </td>
   </tr>
