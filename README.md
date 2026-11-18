@@ -13,6 +13,12 @@
 </p>
 
 <p align="center">
+  <a href="https://wakatime.com/@018c0e84-1747-4ff9-afb9-01e333050f97">
+    <img src="https://wakatime.com/badge/user/018c0e84-1747-4ff9-afb9-01e333050f97.svg" alt="Total time coded since Nov 26 2023" />
+  </a>
+</p>
+
+<p align="center">
   ─── . ─── . ─── . ─── . ─── . ─── . ───
 </p>
 
